@@ -1,10 +1,8 @@
 # Knowledge Power Group (KPG) - Official Website
+Welcome to the **Knowledge Power Group (KPG)** official website repository. This platform provides technological solutions that enhance productivity and business revenue.
+
 ## Website:
 ![screencapture-kpginc-2025-02-10-02_36_30](https://github.com/user-attachments/assets/719146c8-4598-4ec3-a5f4-395bd0b70539)
-
-## Overview
-
-Welcome to the **Knowledge Power Group (KPG)** official website repository. This platform provides technological solutions that enhance productivity and business revenue.
 
 ## Features
 
