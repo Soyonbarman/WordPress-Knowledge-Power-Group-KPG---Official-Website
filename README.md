@@ -1,6 +1,6 @@
 # Knowledge Power Group (KPG) - Official Website
 ## Website:
-![screencapture-lacasadelamedicina-es-en-2025-02-10-01_52_28](https://github.com/user-attachments/assets/a3eb75f0-9499-430d-91c0-97950654f729)
+![screencapture-kpginc-2025-02-10-02_36_30](https://github.com/user-attachments/assets/719146c8-4598-4ec3-a5f4-395bd0b70539)
 
 ## Overview
 
